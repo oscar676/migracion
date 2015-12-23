@@ -1,0 +1,5 @@
+Resumen de la migración: 
+------------------------
+
+Número de insercciones realizadas: 9
+Número de errores: 0
