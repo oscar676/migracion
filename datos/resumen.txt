@@ -1,5 +1,5 @@
 Resumen de la migración: 
 ------------------------
 
-Número de insercciones realizadas: 9
-Número de errores: 0
+Número de insercciones realizadas: 10003
+Número de errores: 1
