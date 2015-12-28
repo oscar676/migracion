@@ -1,5 +1,6 @@
 Resumen de la migración: 
 ------------------------
+Proceso terminado en : 240 segundos
 
 Número de insercciones realizadas: 10003
 Número de errores: 1
